@@ -1,0 +1,27 @@
+_repo: Hoppy-Toad-Tales_66926
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hennessey, William A.
+    gutenberg_agent_id: '54034'
+    url: http://www.gutenberg.org/2009/agents/54034
+description: ''
+gutenberg_issued: '2021-12-12'
+identifiers:
+  gutenberg: '66926'
+language: en
+pgterms:marc904: https://archive.org/details/hoppytoadtales00henn/page/n7/mode/2up
+pgterms:marc905: 20201010193139hennessey
+pgterms:marc906: '1923'
+pgterms:marc907: US
+production_note: Charlene Taylor, hekula03 and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: United States :The Christopher Publishing House,1923.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Hoppy Toad Tales
+url: http://www.gutenberg.org/ebooks/66926
